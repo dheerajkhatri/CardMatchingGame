@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CardMatching", "CardMatching\CardMatching.vbproj", "{3E3206BF-2E66-478C-9811-35E9ABA5DD52}"
+EndProject
+Project("{840C416C-B8F3-42BC-B0DD-F6BB14C9F8CB}") = "Card Game Installer", "Card Game Installer\Card Game Installer.aiproj", "{E4B005D2-7E50-4C6E-A74F-02BB3047F518}"
+	ProjectSection(ProjectDependencies) = postProject
+		{3E3206BF-2E66-478C-9811-35E9ABA5DD52} = {3E3206BF-2E66-478C-9811-35E9ABA5DD52}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E3206BF-2E66-478C-9811-35E9ABA5DD52}.Debug|x86.ActiveCfg = Debug|x86
+		{3E3206BF-2E66-478C-9811-35E9ABA5DD52}.Debug|x86.Build.0 = Debug|x86
+		{3E3206BF-2E66-478C-9811-35E9ABA5DD52}.Release|x86.ActiveCfg = Release|x86
+		{3E3206BF-2E66-478C-9811-35E9ABA5DD52}.Release|x86.Build.0 = Release|x86
+		{E4B005D2-7E50-4C6E-A74F-02BB3047F518}.Debug|x86.ActiveCfg = All
+		{E4B005D2-7E50-4C6E-A74F-02BB3047F518}.Debug|x86.Build.0 = All
+		{E4B005D2-7E50-4C6E-A74F-02BB3047F518}.Release|x86.ActiveCfg = All
+		{E4B005D2-7E50-4C6E-A74F-02BB3047F518}.Release|x86.Build.0 = All
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

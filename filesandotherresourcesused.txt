@@ -1,0 +1,16 @@
+text files
+C:\Users\Dheeraj Khatri\Documents\Visual Studio 2010\Projects\CardMatching
+ehighscores.txt  
+mhighscores.txt
+hhighscores.txt
+
+image files
+C:\Users\Dheeraj Khatri\Documents\Visual Studio 2010\Projects\CardMatching
+memory-card-game.png  
+img36.png don't know whether somewhere used or not
+
+sound files -should be in wav format mp3 etc not accepted
+C:\
+done.wav
+error.wav
+ok.wav

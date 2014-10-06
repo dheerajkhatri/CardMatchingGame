@@ -1,0 +1,7 @@
+file will contain only 5 highest score ever made  --DONE
+store the new score if it is greater than lowest value that are stored in file and remove the lowest score  --DONE
+
+
+highsocres should be different for different formats --DONE
+
+while showing highscores sort the values that are fetched from files --DONE

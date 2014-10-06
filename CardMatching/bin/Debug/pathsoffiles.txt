@@ -1,0 +1,7 @@
+C:\Users\Public\Documents\resources\ehighscores.txt
+C:\Users\Public\Documents\resources\mhighscores.txt
+C:\Users\Public\Documents\resources\hhighscores.txt
+C:\Users\Public\Documents\resources\ok.wav
+C:\Users\Public\Documents\resources\error.wav
+C:\Users\Public\Documents\resources\done.wav
+C:\Users\Public\Documents\resources\memory-card-game.png

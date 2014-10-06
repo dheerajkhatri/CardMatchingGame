@@ -1,0 +1,61 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CardMatching
+</name>
+</assembly>
+<members>
+<member name="P:CardMatching.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:CardMatching.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:CardMatching.My.Resources.Resources.ehighscores">
+	<summary>
+  Looks up a localized string similar to Name5*0
+Name4*0
+Name3*0
+Name2*0
+Name1*0
+.
+</summary>
+</member><member name="P:CardMatching.My.Resources.Resources.hhighscores">
+	<summary>
+  Looks up a localized string similar to Name5*0
+Name4*0
+Name3*0
+Name2*0
+Name1*0
+.
+</summary>
+</member><member name="P:CardMatching.My.Resources.Resources.mhighscores">
+	<summary>
+  Looks up a localized string similar to Name5*0
+Name4*0
+Name3*0
+Name2*0
+Name1*0
+.
+</summary>
+</member><member name="P:CardMatching.My.Resources.Resources.pathsoffiles">
+	<summary>
+  Looks up a localized string similar to C:\Users\Public\Documents\resources\ehighscores.txt
+C:\Users\Public\Documents\resources\mhighscores.txt
+C:\Users\Public\Documents\resources\hhighscores.txt
+C:\Users\Public\Documents\resources\ok.wav
+C:\Users\Public\Documents\resources\error.wav
+C:\Users\Public\Documents\resources\done.wav
+C:\Users\Public\Documents\resources\memory-card-game.png.
+</summary>
+</member><member name="T:CardMatching.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
