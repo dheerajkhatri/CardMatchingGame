@@ -1,4 +1,5 @@
 CardMatchingGame
 ================
 
-Game developed during Software Engineering Lab using Visual Basic
+* Desktop application developed as an entertainment and memory enhancing game for kids.
+* It includes different levels of difficulty.
